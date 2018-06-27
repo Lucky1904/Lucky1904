@@ -1,0 +1,6 @@
+echo "# Lucky1904" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/Lucky1904/Lucky1904.git
+git push -u origin master
